@@ -9,4 +9,10 @@ I'm currently out of time to develop a proper GUI, so you should place a file ca
 	<Hotkey type="keypress" keys="LCONTROL+RMENU+RSHIFT+KEY_C" value="CONTROL+KEY_C" />
 </Hotkeys>
 ```
-**Modifier keys (CTRL+C) are bit harder to reproduce.**
+## Tips
+1. You can press keys on the main window, it will print your current keys combination.
+2. "Copy keys" button will copy your current display key combination into your clipboard (CTRL+C).
+3. "Auth refresh" checkbox changes the display key combination behaviour. If enabled then it will display the exactly keys you are pressing, so if you stop pressing it then it will be out. 
+
+## Warning
+**Modifier keys (CTRL+C, ALT+Z) are harder to reproduce due to Windows O.S. behaviour.**
