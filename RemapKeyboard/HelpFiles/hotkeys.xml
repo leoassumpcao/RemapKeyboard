@@ -1,0 +1,4 @@
+<Hotkeys>
+	<Hotkey type="text" keys="LCONTROL+RMENU+KEY_Z" value="|" />
+	<Hotkey type="text" keys="LCONTROL+RMENU+RSHIFT+KEY_Z" value="\" />
+</Hotkeys>
